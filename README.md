@@ -5,7 +5,7 @@ Susan Jarvis
 17sejarvis@gmail.com |
 541-378-2343 |
 [GitHub](https://github.com/susanjarvis) |
-[LinkedIn](www.linkedin.com/in/susan-jarvis-a634a5213) 
+[LinkedIn](https://www.linkedin.com/in/susan-jarvis-a634a5213/) 
 ---
 
 
