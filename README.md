@@ -27,7 +27,7 @@ September 2021 - Present
 Developed software in the Google Earth Engine JavaScript platform to monitor water quality, detect, and quantify the presence of live green vegetation. 
 * Processed and analyzed Landsat 5/7/8 and MODIS satellite data
 * Produced analysis tool, technical report, presentation, ArcGIS StoryMap
-* Highlight 3 [link text](URL)
+
 
 
 Skills
