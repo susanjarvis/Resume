@@ -18,11 +18,18 @@ Education
 
 Experience
 ----------
-
 **Remote Sensing Researcher**, NASA DEVELOP National Program | Science Systems & Applications, Inc. 
 
 *NASA Langley Research Center*  
-September 2021 - Present
+January 2022 - Present
+
+Current DEVELOP Participant in Spring 2022 term. 
+*
+*
+**Remote Sensing Researcher**, NASA DEVELOP National Program | Science Systems & Applications, Inc. 
+
+*NASA Langley Research Center*  
+September 2021 - November 2021
 
 Developed software in the Google Earth Engine JavaScript platform to monitor water quality, detect, and quantify the presence of live green vegetation. 
 * Processed and analyzed Landsat 5/7/8 and MODIS satellite data
