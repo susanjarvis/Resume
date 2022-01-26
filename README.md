@@ -24,8 +24,7 @@ Experience
 January 2022 - Present
 
 Current DEVELOP Participant in Spring 2022 term. 
-*
-*
+
 **Remote Sensing Researcher**, NASA DEVELOP National Program | Science Systems & Applications, Inc. 
 
 *NASA Langley Research Center*  
